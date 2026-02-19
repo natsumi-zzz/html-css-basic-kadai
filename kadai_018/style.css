@@ -1,0 +1,41 @@
+#top {
+    text-align: center;
+    width: 800;   
+    background-color:  #dcc9f4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.top-child {
+    display: inline-block;
+    width: 20%;  
+    background-color: #ffd9df; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#middle {
+    width: 800;
+    height: 800;
+    margin: 20px auto;
+    background-color: #ffd9df;
+}
+
+.middle-child01 {
+    width: 200px;
+    height: 200px;
+    background-color: #87ceeb;
+}
+
+.middle-child02 {
+    width: 200px;
+    height: 200px;
+    background-color: #87ceeb;
+}
+
+.middle-child03 {
+    width: 200px;
+    height: 200px;
+    background-color: #87ceeb;
+}
